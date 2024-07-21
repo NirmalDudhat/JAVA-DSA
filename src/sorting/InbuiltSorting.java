@@ -5,8 +5,8 @@ import java.util.Collections;
 public class InbuiltSorting {
 
     public static void printArray(Integer[] arry){
-        for (int j = 0; j < arry.length; j++) {
-            System.out.print(arry[j] + " ");
+        for (Integer integer : arry) {
+            System.out.print(integer + " ");
         }
         System.out.println();
     }
