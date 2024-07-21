@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit" />
+    <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/PairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/PrintSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NirmalDudhat"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NirmalDudhat&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NirmalDudhat/JAVA-DSA.git",
-    "accountId": "0643431b-1e46-4ec0-a773-6114d765ed53"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NirmalDudhat/JAVA-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;0643431b-1e46-4ec0-a773-6114d765ed53&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/sorting/allSorting.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -47,9 +54,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BasicSorting.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
     "Application.CountingSorting.executor": "Run",
     "Application.InbuiltSorting.executor": "Run",
     "Application.InsertionSorting.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.PairsInArray.executor": "Run",
+    "Application.PrintSubarray.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.SelectionSorting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -164,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721567836371</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1721568248669</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721568248669</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
