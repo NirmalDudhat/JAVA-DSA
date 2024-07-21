@@ -1,30 +1,29 @@
 package sorting;
-import java.util.Scanner;
 
 public class BasicSorting {
-    public static void bubbleSort(int arr[]){
-        for (int turns = 0; turns<arr.length-1; turns++){
-            for (int j = 0; j < arr.length-1-turns; j++) {
-                if (arr[j] > arr[j+1]) {
-                    int temp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1]=temp;
+    public static void bubbleSort(int[] arry){
+        for (int turns = 0; turns<arry.length-1; turns++){
+            for (int j = 0; j < arry.length-1-turns; j++) {
+                if (arry[j] > arry[j+1]) {
+                    int temp = arry[j];
+                    arry[j] = arry[j+1];
+                    arry[j+1]=temp;
                 }
             }
         }
     }
 
-    public static void printArr(int arr[]){
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i]+" ");
+    public static void printArr(int[] arry){
+        for (int j : arry) {
+            System.out.print(j + " ");
         }
         System.out.println();
     }
 
     public static void main(String[] args) {
-        int arr[] = {5,4,1,3,2};
+        int[] arry = {5,4,1,3,2};
 
-        bubbleSort(arr);
-        printArr(arr);
+        bubbleSort(arry);
+        printArr(arry);
     }
 }
