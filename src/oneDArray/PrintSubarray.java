@@ -5,9 +5,7 @@ public class PrintSubarray {
     public static void printSubArray(int[] num){
         int sb = 0;
         for (int i = 0; i < num.length; i++) {
-//            int start = i;
             for (int j = i; j < num.length; j++) {
-//                int end = j;
                 int sum = 0;
                 for (int k = i; k <= j; k++) {
                     sum += num[k];
