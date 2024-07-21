@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/sorting/InsertionSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/InbuiltSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BasicSorting.executor": "Run",
+    "Application.InbuiltSorting.executor": "Run",
     "Application.InsertionSorting.executor": "Run",
     "Application.SelectionSorting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721564913933</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1721566105242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721566105242</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
