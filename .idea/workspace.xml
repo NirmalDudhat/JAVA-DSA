@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oneDArray/MaxSubarraySumBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oneDArray/MaxSubarraySumPrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/TrappingRainwater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +56,7 @@
     "Application.InsertionSorting.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.MaxSubarraySum.executor": "Run",
+    "Application.MaxSubarraySumKadanesAlgo.executor": "Run",
     "Application.MaxSubarraySumPrefixSum.executor": "Run",
     "Application.PairsInArray.executor": "Run",
     "Application.PrintSubarray.executor": "Run",
@@ -68,7 +67,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA/Java DSA",
+    "last_opened_file_path": "E:/JAVA/Java DSA",
     "onboarding.tips.debug.path": "D:/JAVA/Java DSA/src/Main.java"
   }
 }]]></component>
@@ -201,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721582162465</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1721668845945</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721668845945</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1721821821295</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721821821295</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
