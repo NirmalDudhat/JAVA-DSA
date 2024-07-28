@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/oneDArray/TrappingRainwater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneDArray/BuyANDSell_stocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.PrintSubarray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SelectionSorting.executor": "Run",
+    "Application.TrappingRainwater.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -216,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721821821295</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1722013155832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722013155832</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
