@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/oneDArray/BuyANDSell_stocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDArray/Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,31 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicSorting.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.CountingSorting.executor": "Run",
-    "Application.InbuiltSorting.executor": "Run",
-    "Application.InsertionSorting.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.MaxSubarraySum.executor": "Run",
-    "Application.MaxSubarraySumKadanesAlgo.executor": "Run",
-    "Application.MaxSubarraySumPrefixSum.executor": "Run",
-    "Application.PairsInArray.executor": "Run",
-    "Application.PrintSubarray.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SelectionSorting.executor": "Run",
-    "Application.TrappingRainwater.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JAVA/Java DSA",
-    "onboarding.tips.debug.path": "D:/JAVA/Java DSA/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuyANDSell_stocks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InbuiltSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubarraySumKadanesAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubarraySumPrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairsInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainwater.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/Java DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA/Java DSA/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -225,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722013155832</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1722184396671</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722184396671</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
