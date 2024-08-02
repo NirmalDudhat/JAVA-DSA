@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4492ac-3e2c-420f-9a2a-e7d0fa9545e9" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/src/twoDArray/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoDArray/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDArray/DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDArray/SearchInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "Application.BinarySearch.executor": "Run",
     "Application.BuyANDSell_stocks.executor": "Run",
     "Application.CountingSorting.executor": "Run",
+    "Application.DiagonalSum.executor": "Run",
     "Application.InbuiltSorting.executor": "Run",
     "Application.InsertionSorting.executor": "Run",
     "Application.LinearSearch.executor": "Run",
@@ -62,6 +65,7 @@
     "Application.PairsInArray.executor": "Run",
     "Application.PrintSubarray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.SearchInSortedMatrix.executor": "Run",
     "Application.SelectionSorting.executor": "Run",
     "Application.SpiralMatrix.executor": "Run",
     "Application.TrappingRainwater.executor": "Run",
@@ -251,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722613827479</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1722614241671</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722614241671</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
